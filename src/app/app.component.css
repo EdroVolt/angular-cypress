@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: 50px auto;
+}
+
+button {
+  margin: 50px 0;
+  margin-right: 50px;
+}
+
+.mat-cell {
+  min-width: 70px;
+}
